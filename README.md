@@ -12,8 +12,8 @@
 
 * [镜像 1](https://ao3sg.andbru123.us.kg/)
 * [镜像 2](https://ao3rc.andbru123.us.kg/)
-* [镜像 1分流(已失效)](https://ao3sg.andbru123.cc.ua/)
-* [镜像 2分流(已失效)](https://ao3rc.andbru123.cc.ua/)
+* [镜像 1分流](https://ao3sg.andbru123.cc.ua/)
+* [镜像 2分流](https://ao3rc.andbru123.cc.ua/)
 * ~~[失效镜像 1](https://ao3rc.andbru123.tk/)~~
 
 ## 镜像发布页列表
