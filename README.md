@@ -12,13 +12,14 @@
 
 * [镜像 1](https://ao3sg.andbru123.us.kg/)
 * [镜像 2](https://ao3rc.andbru123.us.kg/)
-* [镜像 1分流](https://ao3sg.andbru123.cc.ua/)
-* [镜像 2分流](https://ao3rc.andbru123.cc.ua/)
+* [镜像 1分流(已失效)](https://ao3sg.andbru123.cc.ua/)
+* [镜像 2分流(已失效)](https://ao3rc.andbru123.cc.ua/)
 * ~~[失效镜像 1](https://ao3rc.andbru123.tk/)~~
 
 ## 镜像发布页列表
 
 * [发布页 1](https://nav.andbru123.us.kg/)
+* [发布页 2](https://nav.andbru123.cc.ua/)
 ## 添加QQ频道
 
 欢迎加入我们的QQ频道或者QQ群，以便获得更多的帮助和交流：[加入QQ频道](https://pd.qq.com/s/8ytm1sth5)
